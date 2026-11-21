@@ -27,7 +27,7 @@
 
 ## 목차
 
-#### [[Field Manual - 3-1. Opening|1. 서론]]
+#### [[Field Manual - 3-1. Opening|1. 개막]]
 
 #### [[Field Manual - 3-2. Personal Troopers|2. 퍼스널 트루퍼]]
 
@@ -56,3 +56,9 @@
 #### [[Field Manual - 3-14. Chaojiren-Choukijin, Baral|14. 열전 (초기인, 바랄)]]
 
 #### [[Field Manual - 3-15. Ra Geas|15. 열전 (라 기아스)]]
+
+#### [[Field Manual - 3-16. Traitors|16. 반역 열전]]
+
+#### [[Field Manual - 3-17. The Steel Dragon|17. 강룡 전대]]
+
+#### [[Field Manual - 3-18. Asakusa, Closing|18. 아사쿠사, 맺음]]
