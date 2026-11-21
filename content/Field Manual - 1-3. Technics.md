@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 **[[Field Manual - 1. Universal Century|목차로 돌아가기]]**
 
 ---

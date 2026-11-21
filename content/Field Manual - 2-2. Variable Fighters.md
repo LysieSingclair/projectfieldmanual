@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 **[[Field Manual - 2. Macross City|목차로 돌아가기]]**
 
 ---

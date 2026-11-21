@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 **[[Field Manual - 3. Terra Federation|목차로 돌아가기]]**
 
 ---

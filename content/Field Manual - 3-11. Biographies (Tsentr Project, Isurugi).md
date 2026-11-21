@@ -1,14 +1,10 @@
----
-dg-publish: true
----
-
 **[[Field Manual - 3. Terra Federation|목차로 돌아가기]]**
 
 ---
 
 **본 서류에 나오는 내용들은 2 차 창작물로, 공식 설정과는 차이가 많을 수 있습니다. 해당 내용을 공식 설정으로 오해하시는 일이 없기를 바랍니다.**
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Ugq7vzgLCZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/5wM4O_YcK_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -290,7 +286,7 @@ G 형과 S 형으로 변형할 수 있으며, G 형은 로가 중심의 격투�
 - **그런 집안 딸내미에게 그런 옷을 입히셨쎄여?** 대단한 ㄸㄹㅇ들이네, 아주 ㅋㅋㅋㅋㅋㅋㅋㅋ - 극동 지부 병사 1
 - 그리고, 그 관계자들 전부 망했지. **자업자득**이다, 개자식들아 ㅋㅋㅋㅋㅋㅋㅋㅋ - 극동 지부 병사 2
 
-#### 도나 갤러거 (Dona Gallagher)
+#### ☹️ 도나 갤러거 (Dona Gallagher)
 기동병기 웬디고 (Wendigo) 시리즈의 개발자. 미혼모로 아들인 토니 (Tony) 를 혼자 키우며 살고 있었다. 그러나, 인스펙터 전쟁 당시, **토니는 목 아래를 움직일 수 없는 신세가 되어 버렸다.**
 
 아들에게 자유롭게 움직일 수 있는 몸을 주고 싶어, 아들도 조종할 수 있는 맨 머신 인터페이스를 적용한 웬디고를 개발하려 하였다.
@@ -369,7 +365,7 @@ G 형과 S 형으로 변형할 수 있으며, G 형은 로가 중심의 격투�
 - **플레시 골렘**이냐, 참으로 걸작급 행각이다. - 연방군 병사 2
 - 저 꼴을 보면서 이스루기 사장 냔은 저것보다는 나아...... 아니, 둘 다 ㅆㅂ냔이네. 둘 중 하나 선택하라고 하면 난 무조건 자살할 거야. - 연방군 병사 3
 
-#### <span style="color:red">-반역- 미탈 자파트 (Mitall Zapat)</span>
+#### 😡 미탈 자파트 (Mitall Zapat)
 첸트르 계획 책임자로 라즈무나늄, 터미너스 에너지 엔진 등의 개발자로 역량이 아주 높은 인물이었다. 크라이 울브즈로 하여금 아인스트를 포획, 라즈무나늄을 통해 예츠트로 변이시켰으며, 예츠트가 폭주하는 모습을 보며, 희열을 느끼는 모습을 보여주었다.
 - 저기서 썩을 놈이라는 게 벌써 드러났지. - 연방군 병사
 
@@ -392,7 +388,7 @@ G 형과 S 형으로 변형할 수 있으며, G 형은 로가 중심의 격투�
 결국, 그랜드 크리스마스 공방전 이전, 가베러스가 완성되자마자, <u>거리낄 것 없어진 에르데에 의해 사살당하는 것으로 최후</u>를 맞았다.
 - 자업자득이긴 한데...... 아오 ㅆㅂㄴ - 극동 지부 병사
 
-#### <span style="color:red">-반역- 에르데 미테 (Erde Mitte)</span>
+#### 🤬 에르데 미테 (Erde Mitte)
 - ㅆ년 - 연방군 병사 1
 - 사이코패스 - 연방군 병사 2
 - 우주급 ㄱ년 - 연방군 병사 3
@@ -461,10 +457,10 @@ L5 전투 이후로는 렌지의 딸 미츠코가 사장이 되었으며, <u>'�
 
 문 드웰러즈 전쟁 당시에서 퓨리 제국의 기술을 탐냈으나, 퓨리가 떠나면서 없던 일이 되었다.
 
-#### <span style="color:red">-반역- 렌지 이스루기 (Renji Isurugi)</span>
+#### 😡 렌지 이스루기 (Renji Isurugi)
 이스루기 중공업의 사장이었던 인물로 L5 전투 무렵, 발마 측에 투항하려 한 칼 슈트레제만과 함께 시로가네에 탑승하였으나, 시로가네의 함교가 습격을 당하면서 그 여파로 슈트레제만과 함께 사망하고 말았다.
 
-#### <span style="color:#ff77aa">미츠코 이스루기 (Mitsuko Isurugi)</span>
+#### 😠 미츠코 이스루기 (Mitsuko Isurugi)
 렌지 사후, 사장으로 취임한 인물.
 - 어떻게 저런 창녀 같은 애가 사장이...... - 연방군 병사
 

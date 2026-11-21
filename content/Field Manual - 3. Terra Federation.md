@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 **본 서류에 나오는 내용들은 2 차 창작물로, 공식 설정과는 차이가 많을 수 있습니다. 해당 내용을 공식 설정으로 오해하시는 일이 없기를 바랍니다.**
 
 **신서력 지구 연방 - 신서력 189 ~ 190 년
@@ -44,10 +41,18 @@ dg-publish: true
 
 #### [[Field Manual - 3-7. Weapons, Technics|7. 무기 및 기술]]
 
-#### [[Field Manual - 3-8. Biographies (Terra Federation)|8. 열전 (지구 연방 측)]]
+#### [[Field Manual - 3-8. Biographies (Terra Federation)|8. 열전 (지구 연방)]]
 
 #### [[Field Manual - 3-9. Biographies (DC, Aerogaters)|9. 열전 (디바인 크루세이더즈, 에어로게이터)]]
 
 #### [[Field Manual - 3-10. Biographies (Neue DC, Earth Cradle, Shadow Mirror)|10. 열전 (노이에 DC, 어스크레이들, 섀도우 미러)]]
 
 #### [[Field Manual - 3-11. Biographies (Tsentr Project, Isurugi)|11. 열전 (첸트르 프로젝트, 이스루기 중공업)]]
+
+#### [[Field Manual - 3-12. Einst, Dark Brain, Idearants|12. 열전 (아인스트, 다크브레인, 이데아란츠)]]
+
+#### [[Field Manual - 3-13. Zovorg, Ruina|13. 열전 (조보크 성간연합, 루이나)]]
+
+#### [[Field Manual - 3-14. Chaojiren-Choukijin, Baral|14. 열전 (초기인, 바랄)]]
+
+#### [[Field Manual - 3-15. Ra Geas|15. 열전 (라 기아스)]]
