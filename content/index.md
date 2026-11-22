@@ -27,3 +27,9 @@ date: 2026-11-22
 
 #### [[Field Manual - 4. Planet Enroth|4. 엔로스 행성계 편]]
 
+##### [[Field Manual - Supplement Issue 1.|보유편 1]]
+
+#### 5. 자나두 편 (추가 예정)
+
+#### 6. 에스테리어 편 (추가 예정)
+

@@ -6,6 +6,8 @@
 
 <iframe allowfullscreen="" class="youtube_iframe" frameborder="0" height="450" src="https://www.youtube.com/embed/_k5YVy2QabQ" width="100%"></iframe>
 
+---
+
 ## 지구 연방 (Earth Federation)
 
 지구연방은 예로부터 스페이스노이드들의 국가 지온 공국과의 전쟁을 이어갔다. 극심한 피해에도 불구하고, 결국 지구는 지온과의 싸움에서 승리했으며, 그 영향력은 현 시점에서는 미미한 상태이다.
