@@ -88,7 +88,7 @@ L5 작전 당시, 레이커 란돌프 극동기지 사령관이 제안한 작전
 그러나, 어느 순간부터 기동 병기 조종사들은 파일럿 슈츠를 의무적으로 입을 것을 강요당했고, 부대 내 복장 규정도 상당히 엄격해졌다.
 - 파일럿 슈츠도 그렇고, 어느새, 평상시에는 군 제복을 입을 것이 강요됐어. 어떻게 된 일이냐고 물어봤는데, **군 관계자들도 모른다더라.** - 강룡 전대 부대원
 
-이에 대해서는 한 가지 가설이 제시되고 있다. [반테이 필름 웍스 (Bantei Film Works)](https://www.google.com/search?q=bandai+namco+film+works&ie=UTF-8) 라는 애니메이션 업체에서 강룡 전대의 활약을 그린 애니메이션 []'성십자 성전 (Divine Wars)'](https://www.google.com/search?q=super+robot+wars+divine+wars&ie=UTF-8) 을 방영한 적이 있다. 해당 애니메이션에서는 <u>[]'기동전사 전기'](https://www.google.com/search?q=%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC+%EA%B1%B4%EB%8B%B4&ie=UTF-8) 와 같은 현실적인 군 부대의 모습을 보여주기 위해</u>
+이에 대해서는 한 가지 가설이 제시되고 있다. [반테이 필름 웍스 (Bantei Film Works)](https://www.google.com/search?q=bandai+namco+film+works&ie=UTF-8) 라는 애니메이션 업체에서 강룡 전대의 활약을 그린 애니메이션 ['성십자 성전 (Divine Wars)'](https://www.google.com/search?q=super+robot+wars+divine+wars&ie=UTF-8) 을 방영한 적이 있다. 해당 애니메이션에서는 <u>['기동전사 전기'](https://www.google.com/search?q=%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC+%EA%B1%B4%EB%8B%B4&ie=UTF-8) 와 같은 현실적인 군 부대의 모습을 보여주기 위해</u>
 - 뭣이라? - 연방군 병사 1
 - ㅈㄹ하고 있네, **당장에 딱 봐도 완구처럼 생긴 특기들이 떡하니 존재하는데, 뭐라고?** - 연방군 병사 2
 
