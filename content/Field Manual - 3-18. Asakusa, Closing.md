@@ -8,7 +8,8 @@
 
 ---
 
-![[kaminarimon.webp]]
+>[!grid|1]
+>![[kaminarimon.webp]]
 ## 아사쿠사 (Asakusa)
 재팬의 토쿄에 위치한 구역 중 하나. 사찰 **'센소지 (Sensoji)'** 와 그 정문 **'카미나리몬 (Kaminarimon)'** 이 유명하다.
 
