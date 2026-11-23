@@ -155,7 +155,7 @@
 여성과 성직자를 우선 노리는 성향을 갖고 있다.
 - 대체 어떤 악령이 들러붙었는지 몰라도 아주 ㅆㅂ놈 같은게 붙었네, 미친 SEKI 들. - 모험가 마법사
 - 어린애도 노리는 녀석도 있다더라! - 실버 코브 주민
-- [그레이트 ㅆㅂ놈 SEKI 들!!!!!!!!!!!!!](https://upload3.inven.co.kr/upload/2020/10/13/bbs/i15690409212.jpg) - 모험가 마법사 2
+- [그레이트 ㅆㅂ놈 SEKI 들!!!!!!!!!!!!!](https://www.google.com/search?q=%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8+%EC%8B%9C%EB%B0%9C%EB%86%88) - 모험가 마법사 2
 
 >[!grid|1]
 >![[guard.webp]]
@@ -250,7 +250,7 @@
 
 **(지워짐)** - 이거, 리들리가 썼거든? 같잖은 자식. 이거 그대로 적어서, 유언비어 유포죄로 섭정 각하께 고발하려 했다가, 이 정도로 넘어간다. **이거 아이언피스트 왕성에 전달됐으면, 넌 꼼짝없이 유언비어 유포죄로 잡혀갔어.** 다음에는 개짓거리를 해도 선 넘지 마라, 제발!!!!!!!!! - 모험가 마법사
 - 뭐라고 써 놓았길래...... - 아잘리
-- 보니까, **[엄청난 키의 막대한 힘을 가진 드루이디스](https://pbs.twimg.com/media/Gz2lmbbgAALY3a?format=jpg&name=4096x4096)가 [사람을 토끼 괴물로](https://pbs.twimg.com/media/GXD_uI4bsAAyoJE?format=webp&name=large) [만드니 뭐니](https://pbs.twimg.com/media/FH8YjDUaMAEcYh0?format=jpg&name=900x900) 그런 내용이 적혀 있더라 ㅋㅋㅋ** - 아르산
+- 보니까, **[엄청난 키의 막대한 힘을 가진 드루이디스](https://x.com/anonhistory/status/1641280027303231489/photo/1)가 [사람을 토끼 괴물로](https://pbs.twimg.com/media/GXD_uI4bsAAyoJE?format=webp&name=large) [만드니 뭐니](https://pbs.twimg.com/media/FH8YjDUaMAEcYh0?format=jpg&name=900x900) 그런 내용이 적혀 있더라 ㅋㅋㅋ** - 아르산
 
 >[!grid|1]
 >![[baa-priest.webp]]
@@ -603,6 +603,7 @@
 
 <u>강력 리치</u>들은 이런 마법을 사용하지 않으나, 
 - **<span style="color:red;font-size:30px">힘센 이끼</span>** - 모험가 '리들리'
+
 
 - 리들리, 또 시작이군. 좋아, **'힘센 이끼' 가득 낀 나무 몽둥이로 온 몸을 정성스럽게 손질해 주마.** - 모험가 기사
 
