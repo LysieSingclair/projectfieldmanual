@@ -33,7 +33,7 @@ date: 2026-11-22
 
 ##### [[Field Manual - Supplement Issue 1.|보유편 1]]
 
-#### 5. 자나두 편 (추가 예정)
+#### [[Field Manual - 5. Xanadu|5. 자나두 편]]
 
 #### 6. 에스테리어 편 (추가 예정)
 
